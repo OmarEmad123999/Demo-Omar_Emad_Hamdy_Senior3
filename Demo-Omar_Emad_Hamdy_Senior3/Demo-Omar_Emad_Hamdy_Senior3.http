@@ -1,0 +1,6 @@
+@Demo_Omar_Emad_Hamdy_Senior3_HostAddress = http://localhost:5273
+
+GET {{Demo_Omar_Emad_Hamdy_Senior3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
