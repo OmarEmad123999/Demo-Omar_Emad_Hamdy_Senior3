@@ -6,6 +6,7 @@ namespace Demo_Omar_Emad_Hamdy_Senior3.Models
 {
     public class ArtPiece
     {
+        //
         [Key]
         public int Id { get; set; }
         [Required]
